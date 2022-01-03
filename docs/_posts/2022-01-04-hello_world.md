@@ -16,4 +16,4 @@ There are numerous reasons for wanting my career to be focused in industry, they
 
 This post seems to be a litany of thankfulness. It is a good reminder that even if I can't start immediately, I have much to be thankful for already.
 
-\- [blog_sign_off.png](/docs_test/blog_sign_off.png)
+\- [blog_sign_off.png](/images/blog_sign_off.png)
