@@ -1,1 +1,15 @@
+title: Your awesome title
+author: Lucy de Jong
+email: lucy.c.dejong@gmail.com
+description: Hi! I am Lucy de Jong, about to start my PhD, and have decided to blog this journey - don't know when I'm starting yet, which is all part of the fun!
+I'll add more as I go, this is to get it up and running while I figure out the best way to publish it.
+Happy reading!
+baseurl: "/docs"
+url: https://lucy924.github.io
+github_username:  lucy924
+twitter_username: Lucy_dJ_394
+
+# Build settings
 theme: jekyll-theme-architect
+plugins:
+  - jekyll-feed
