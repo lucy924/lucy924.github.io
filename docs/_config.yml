@@ -22,13 +22,13 @@ title: Diary of a PhD student in Aotearoa
 author: Lucy de Jong
 email: lucy.c.dejong@gmail.com
 description: Hi! I'm Lucy de Jong, a prospective PhD student. This is a place for me to get down my thoughts and feelings throughout my PhD journey in immunology and epigenetics, plus things I learn along the way. 
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+# baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: https://lucy924.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Lucy_dJ_394
 github_username:  lucy924
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
