@@ -28,7 +28,7 @@ twitter_username: Lucy_dJ_394
 github_username:  lucy924
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
