@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hello world!"
 date: 2022-01-04
 ---
