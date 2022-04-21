@@ -41,6 +41,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+  - jemoji
 remote_theme: vszhub/not-pure-poole
 
 # Exclude from processing.

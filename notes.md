@@ -15,6 +15,7 @@ To use the Not-Pure-Poole theme:
 - https://jamstackthemes.dev/theme/not-pure-poole/
 - https://github.com/benbalter/jekyll-remote-theme
 - ended up copying a lot of the directories/docs from this repo into the corresponding places in my repo
+- https://vszhub.github.io/not-pure-poole/2020/09/29/welcome-to-not-pure-poole/#
 
 To rebuild and test locally:
 delete Gemfile.lock

@@ -1,4 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-04-21T12:22:43+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Diary of a PhD student in Aotearoa</title><subtitle>Hi! I&apos;m a prospective PhD student in Aotearoa, New Zealand.</subtitle><author><name>Lucy de Jong</name><email>lucy.c.dejong@gmail.com</email></author><entry><title type="html">Hello world!</title><link href="http://localhost:4000/2022/01/04/hello_world/" rel="alternate" type="text/html" title="Hello world!" /><published>2022-01-04T00:00:00+13:00</published><updated>2022-01-04T00:00:00+13:00</updated><id>http://localhost:4000/2022/01/04/hello_world</id><content type="html" xml:base="http://localhost:4000/2022/01/04/hello_world/">&lt;p&gt;Good morning!&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-04-21T15:26:46+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Diary of a PhD student in Aotearoa</title><subtitle>Hi! I&apos;m a prospective PhD student in Aotearoa, New Zealand.</subtitle><author><name>Lucy de Jong</name><email>lucy.c.dejong@gmail.com</email></author><entry><title type="html">This blog is finally working</title><link href="http://localhost:4000/2022/04/21/blog_is_working/" rel="alternate" type="text/html" title="This blog is finally working" /><published>2022-04-21T00:00:00+12:00</published><updated>2022-04-21T00:00:00+12:00</updated><id>http://localhost:4000/2022/04/21/blog_is_working</id><content type="html" xml:base="http://localhost:4000/2022/04/21/blog_is_working/">&lt;p&gt;Kia Ora!&lt;br /&gt;
+Well this blog is finally up and running :relieved:&lt;/p&gt;
+
+&lt;p&gt;If you follow me from this beginning, expect some changes to this format as I navigate/learn/tinker with GitHub pages, Jekyll, website development, social media … well everything I guess.&lt;/p&gt;
+
+&lt;p&gt;Some updates from the last post:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I got a university scholarship which is a big relief!&lt;/li&gt;
+  &lt;li&gt;I finished up at work on Tuesday&lt;/li&gt;
+  &lt;li&gt;My project plans have gone out the window and re-entered in a more general and hopefully more manageable form (I will do a post about my studies once I figure out more of them and what I should/should not publish here)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have two weeks break before I officially start my studies, and I plan to use it tinkering with this blog, catching up on &lt;a href=&quot;#reading&quot;&gt;reading&lt;/a&gt;, doing some admin work for &lt;a href=&quot;https://www.facebook.com/predatorfreechurtonpark/&quot;&gt;Predator Free Churton Park&lt;/a&gt; and getting through a chunk of my To Do list. How much will actually get done? Probably not as much as I hope!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog_sign_off.png&quot; alt=&quot;blog_sign_off.png&quot; height=&quot;36px&quot; width=&quot;36px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p id=&quot;reading&quot;&gt; &lt;/p&gt;
+&lt;h4 id=&quot;things-im-reading&quot;&gt;Things I’m reading:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Immune &lt;em&gt;by Philipp Dettmer&lt;/em&gt; (Creator of &lt;a href=&quot;https://www.youtube.com/c/inanutshell&quot;&gt;Kurzgesagt&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Ministry for the Future &lt;em&gt;by Kim Stanley Robinson&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Rule of Wolves &lt;em&gt;by Leigh Bardugo&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Lucy de Jong</name><email>lucy.c.dejong@gmail.com</email></author><category term="intro" /><category term="life" /><category term="career" /><summary type="html">Kia Ora! Well this blog is finally up and running :relieved:</summary></entry><entry><title type="html">Hello world!</title><link href="http://localhost:4000/2022/01/04/hello_world/" rel="alternate" type="text/html" title="Hello world!" /><published>2022-01-04T00:00:00+13:00</published><updated>2022-01-04T00:00:00+13:00</updated><id>http://localhost:4000/2022/01/04/hello_world</id><content type="html" xml:base="http://localhost:4000/2022/01/04/hello_world/">&lt;p&gt;Good morning!&lt;br /&gt;
 My very first blog post is all about my thoughts as I begin to plan out and get ideas for my 3-year PhD project in Wellington, New Zealand.&lt;/p&gt;
 
 &lt;p&gt;I have been in the research and development department for a cancer treatment research company since I finished my Honours degree in 2016. As our department began moving in new directions I decided to take a look at what I wanted out of my career (disease and treatment research), my lifestyle (world travel with my husband) my current life situation (coupled with the world’s situation - eek!) and landed on the decision to spend the next three years doing a PhD in my home city of Wellington.&lt;/p&gt;
@@ -11,4 +34,4 @@ My very first blog post is all about my thoughts as I begin to plan out and get 
 
 &lt;p&gt;This post seems to be a litany of thankfulness. It is a good reminder that even if I can’t start immediately, I have much to be thankful for already.&lt;/p&gt;
 
-&lt;p&gt;- L&lt;/p&gt;</content><author><name>Lucy de Jong</name><email>lucy.c.dejong@gmail.com</email></author><category term="introduction" /><category term="intro" /><category term="life" /><category term="career" /><summary type="html">Good morning! My very first blog post is all about my thoughts as I begin to plan out and get ideas for my 3-year PhD project in Wellington, New Zealand.</summary></entry></feed>
+&lt;p&gt;- L&lt;/p&gt;</content><author><name>Lucy de Jong</name><email>lucy.c.dejong@gmail.com</email></author><category term="intro" /><category term="life" /><category term="career" /><summary type="html">Good morning! My very first blog post is all about my thoughts as I begin to plan out and get ideas for my 3-year PhD project in Wellington, New Zealand.</summary></entry></feed>
