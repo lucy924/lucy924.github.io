@@ -2,6 +2,7 @@
 layout: post
 title: "Hello world!"
 date: 2022-01-04
+tags: [introduction, intro, life, career]
 ---
 
 Good morning!  

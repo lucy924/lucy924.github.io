@@ -19,18 +19,29 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Diary of a PhD student in Aotearoa
+description: Hi! I'm a prospective PhD student in Aotearoa, New Zealand.
 author: Lucy de Jong
 email: lucy.c.dejong@gmail.com
-description: Hi! I'm a prospective PhD student in Aotearoa, New Zealand.
 # baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: https://lucy924.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Lucy_dJ_394
 github_username:  lucy924
+avatar: /images/avatar.png
+paginate: 5
+permalink: pretty
+# cover_image: /images/dna_sunset.jpg
 
 # Build settings
-theme: jekyll-theme-architect
+# theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+remote_theme: vszhub/not-pure-poole
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,3 +62,26 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# stuff from the theme config
+# Optimize Jekyl SEO Tag
+twitter:
+  username: Lucy_dJ_394
+  card: summary
+# logo: logo.png
+social:
+  name: Lucy de Jong
+  links:
+    # - https://twitter.com/vszhub
+    - https://github.com/lucy924
+# google_site_verification: xxxxx
+lang: en
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+author:
+  name: Lucy de Jong
+  url: https://github.com/lucy924
+  email: lucy.c.dejong@gmail.com
