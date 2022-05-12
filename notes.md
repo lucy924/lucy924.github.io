@@ -19,6 +19,11 @@ To use the Not-Pure-Poole theme:
 
 To rebuild and test locally:
 delete Gemfile.lock
-run `jekyll build`
-run `bundle install`
-run `bundle exec jekyll serve`
+`cd [path/to/docs/location]` 
+`jekyll build`
+`bundle install`
+`bundle exec jekyll serve`
+
+Testing help:
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+

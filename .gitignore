@@ -1,2 +1,17 @@
-**/.DS_Store
-drafts/*
+# Ignore system and editor files
+
+.vscode/
+
+# Ignore setup files
+docs/_site
+docs/.sass-cache
+docs/.jekyll-cache
+docs/.jekyll-metadata
+docs/vendor
+docs/Gemfile
+docs/Gemfile.lock
+
+# Ignore other files
+
+old/
+docs_test/

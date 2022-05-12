@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-04-21T15:26:46+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Diary of a PhD student in Aotearoa</title><subtitle>Hi! I&apos;m a prospective PhD student in Aotearoa, New Zealand.</subtitle><author><name>Lucy de Jong</name><email>lucy.c.dejong@gmail.com</email></author><entry><title type="html">This blog is finally working</title><link href="http://localhost:4000/2022/04/21/blog_is_working/" rel="alternate" type="text/html" title="This blog is finally working" /><published>2022-04-21T00:00:00+12:00</published><updated>2022-04-21T00:00:00+12:00</updated><id>http://localhost:4000/2022/04/21/blog_is_working</id><content type="html" xml:base="http://localhost:4000/2022/04/21/blog_is_working/">&lt;p&gt;Kia Ora!&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-05-13T10:20:38+12:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Diary of a PhD student in Aotearoa</title><subtitle>Hi! I&apos;m a prospective PhD student in Aotearoa, New Zealand.</subtitle><author><name>Lucy de Jong</name><email>lucy.c.dejong@gmail.com</email></author><entry><title type="html">The end of my second week</title><link href="http://localhost:4000/2022/05/13/second_week/" rel="alternate" type="text/html" title="The end of my second week" /><published>2022-05-13T00:00:00+12:00</published><updated>2022-05-13T00:00:00+12:00</updated><id>http://localhost:4000/2022/05/13/second_week</id><content type="html" xml:base="http://localhost:4000/2022/05/13/second_week/">&lt;p&gt;Welkom! It’s the end of my second week and for some unknown reason I’m pretty tired :sleeping:&lt;/p&gt;
+
+&lt;p&gt;I started my first week with mostly admin things, like scrounging for electronics and various desk-related things with the help of my supervisor, meeting a lot of people in the office, and getting my ID picture taken (still haven’t got the card though, I have to sign in at the hospital where I’m based every day without it).&lt;br /&gt;
+In amongst all that, I tried to start planning projects and reading, but I found myself reading with no aim and going around in circles, not able to focus on anything. In the end my supervisor suggested I work on learning about and writing cell culture protocols (like from &lt;a href=&quot;https://link.springer.com/book/10.1007/978-1-62703-128-8&quot;&gt;this book&lt;/a&gt;&lt;sup id=&quot;fnref:fn-cell_culture_book&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:fn-cell_culture_book&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;) because that is one of the first things I would need to do anyway.&lt;br /&gt;
+I think it gave me some direction in my reading, and now I think I have a better idea of what I need to be reading overall. So for now I’m building my own cell culture protocol.&lt;br /&gt;
+While I’ve written protocols before, I have never needed to keep track of the materials needed and how much they cost before, so this part is new to me. Working out how to record and track everything is the kind of thing I enjoy!&lt;/p&gt;
+
+&lt;p&gt;As it’s been a month since my last post, one of my aims is to write these more frequently! I do have plans for more informative ones, but I haven’t learnt much yet!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog_sign_off.png&quot; alt=&quot;blog_sign_off.png&quot; height=&quot;36px&quot; width=&quot;36px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p id=&quot;reading&quot;&gt; &lt;/p&gt;
+&lt;h4 id=&quot;things-im-reading&quot;&gt;Things I’m reading:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Immune &lt;em&gt;by Philipp Dettmer&lt;/em&gt; (Creator of &lt;a href=&quot;https://www.youtube.com/c/inanutshell&quot;&gt;Kurzgesagt&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;Ministry for the Future &lt;em&gt;by Kim Stanley Robinson&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-cell_culture_book&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;McMurchy, A. N. &amp;amp; Levings, M. K. Basic Cell Culture Protocols (eds. Helgason, C. D. &amp;amp; Miller, C. L.) (Humana Press, 2013). doi:10.1007/978-1-62703-128-8 &lt;a href=&quot;#fnref:fn-cell_culture_book&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Lucy de Jong</name><email>lucy.c.dejong@gmail.com</email></author><category term="study" /><summary type="html">Welkom! It’s the end of my second week and for some unknown reason I’m pretty tired :sleeping:</summary></entry><entry><title type="html">This blog is finally working</title><link href="http://localhost:4000/2022/04/21/blog_is_working/" rel="alternate" type="text/html" title="This blog is finally working" /><published>2022-04-21T00:00:00+12:00</published><updated>2022-04-21T00:00:00+12:00</updated><id>http://localhost:4000/2022/04/21/blog_is_working</id><content type="html" xml:base="http://localhost:4000/2022/04/21/blog_is_working/">&lt;p&gt;Kia Ora!&lt;br /&gt;
 Well this blog is finally up and running :relieved:&lt;/p&gt;
 
 &lt;p&gt;If you follow me from this beginning, expect some changes to this format as I navigate/learn/tinker with GitHub pages, Jekyll, website development, social media … well everything I guess.&lt;/p&gt;
