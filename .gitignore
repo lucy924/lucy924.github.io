@@ -1,5 +1,5 @@
 # Ignore system and editor files
-
+**/.DS_Store
 .vscode/
 
 # Ignore setup files
@@ -12,6 +12,6 @@ docs/Gemfile
 docs/Gemfile.lock
 
 # Ignore other files
-
+drafts/
 old/
 docs_test/
