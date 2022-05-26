@@ -19,13 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Diary of a PhD student in Aotearoa
-description: Hi! I'm a prospective PhD student in Aotearoa, New Zealand.
-author: Lucy de Jong
-email: lucy.c.dejong@gmail.com
+description: Hi! I'm a PhD student in Aotearoa, New Zealand.
+author: Lucy Picard
+email: lucy.picard@postgrad.otago.ac.nz
 # baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: https://lucy924.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Lucy_dJ_394
 github_username:  lucy924
+ORCID_id: 0000-0002-3399-8394
+
 avatar: /images/avatar.png
 paginate: 5
 permalink: pretty
@@ -71,10 +73,12 @@ twitter:
   card: summary
 # logo: logo.png
 social:
-  name: Lucy de Jong
+  name: Lucy Picard
   links:
-    # - https://twitter.com/vszhub
+    - https://twitter.com/Lucy_dJ_394
     - https://github.com/lucy924
+    - https://www.linkedin.com/in/lucy-de-jong-5155b41a9
+    - https://orcid.org/0000-0002-3399-8394
 # google_site_verification: xxxxx
 lang: en
 
@@ -83,6 +87,6 @@ sass:
   style: :compressed
 
 author:
-  name: Lucy de Jong
+  name: Lucy Picard
   url: https://github.com/lucy924
-  email: lucy.c.dejong@gmail.com
+  email: lucy.picard@postgrad.otago.ac.nz

@@ -10,6 +10,7 @@ https://stackoverflow.com/questions/44010385/jekyll-architect-theme-not-working-
 - deleted Gemfile.lock to use updated bundler
 - bundle update
 - bundle install (creates a new Gemfile.lock)
+- I never got this working in the end.
 
 To use the Not-Pure-Poole theme:
 - https://jamstackthemes.dev/theme/not-pure-poole/
@@ -20,8 +21,16 @@ To use the Not-Pure-Poole theme:
 To rebuild and test locally:
 delete Gemfile.lock
 `cd [path/to/docs/location]` 
+`chruby 3.1.2`
 `jekyll build`
 `bundle install`
+`bundle update`
+`bundle exec jekyll serve`
+
+To start testing after computer restart:
+`cd [path/to/docs/location]` 
+`chruby 3.1.2`
+`bundle update`
 `bundle exec jekyll serve`
 
 Testing help:

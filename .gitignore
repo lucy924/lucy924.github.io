@@ -3,6 +3,8 @@
 .vscode/
 
 # Ignore setup files
+# _site must be ignored for the actual site to be updated the correct way. 
+# I think it's to do with testing locally, and github does its own thing when making it public.
 docs/_site
 docs/.sass-cache
 docs/.jekyll-cache

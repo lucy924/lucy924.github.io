@@ -4,7 +4,7 @@ date: 2022-04-21
 tags: [intro, life, career]
 ---
 
-Kia Ora!  
+Kia Ora! :new_zealand:  
 Well this blog is finally up and running :relieved: 
 
 If you follow me from this beginning, expect some changes to this format as I navigate/learn/tinker with GitHub pages, Jekyll, website development, social media ... well everything I guess.  

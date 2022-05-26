@@ -1,5 +1,5 @@
 - title: Email
-  url: mailto://lucy.c.dejong@gmail.com
+  url: mailto://lucy.picard@postgrad.otago.ac.nz
   icon: fas fa-envelope
 - title: Twitter
   url: https://twitter.com/Lucy_dJ_394
@@ -7,3 +7,6 @@
 - title: GitHub
   url: https://github.com/lucy924
   icon: fab fa-github
+- title: ORCID
+  url: https://orcid.org/0000-0002-3399-8394
+  icon: fab fa-id-badge

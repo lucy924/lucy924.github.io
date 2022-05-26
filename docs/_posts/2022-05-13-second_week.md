@@ -4,7 +4,8 @@ date: 2022-05-13
 tags: [study]
 ---
 
-Welkom! It's the end of my second week and for some unknown reason I'm pretty tired :sleeping:
+Welkom! :netherlands:  
+It's the end of my second week and for some unknown reason I'm pretty tired :sleeping:
 
 I started my first week with mostly admin things, like scrounging for electronics and various desk-related things with the help of my supervisor, meeting a lot of people in the office, and getting my ID picture taken (still haven't got the card though, I have to sign in at the hospital where I'm based every day without it).  
 In amongst all that, I tried to start planning projects and reading, but I found myself reading with no aim and going around in circles, not able to focus on anything. In the end my supervisor suggested I work on learning about and writing cell culture protocols (like from [this book](https://link.springer.com/book/10.1007/978-1-62703-128-8)[^fn-cell_culture_book]) because that is one of the first things I would need to do anyway.  
