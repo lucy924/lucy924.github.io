@@ -9,4 +9,4 @@
   icon: fab fa-github
 - title: ORCID
   url: https://orcid.org/0000-0002-3399-8394
-  icon: fab fa-id-badge
+  # icon: fab fa-id-badge

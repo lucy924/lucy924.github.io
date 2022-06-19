@@ -15,5 +15,14 @@ or by adding this to PATH:
 
 and just calling:
 > `bowtie`
+Note that this command adds to PATH temporarily.
 
+To add it permanently, try this
+`echo 'export PATH="$PATH:/Users/lucy/programs/bowtie"' >> ~/.bash_profile`
+
+To see what's already in your path, `echo $PATH`
 Many programs that use other programs also require you to ensure their requirements are accessible this way.
+For a great explanation on PATH, see astrobiomike's explanation [here](https://astrobiomike.github.io/unix/modifying_your_path)
+
+## Github blog issues:
+- Cmd + Opt + r on site to hard reload the page (reload it with no cache)

@@ -24,9 +24,9 @@ author: Lucy Picard
 email: lucy.picard@postgrad.otago.ac.nz
 # baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: https://lucy924.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Lucy_dJ_394
+# twitter_username: Lucy_dJ_394
 github_username:  lucy924
-ORCID_id: 0000-0002-3399-8394
+# ORCID_id: 0000-0002-3399-8394
 
 avatar: /images/avatar.png
 paginate: 5
@@ -68,17 +68,17 @@ remote_theme: vszhub/not-pure-poole
 
 # stuff from the theme config
 # Optimize Jekyl SEO Tag
-twitter:
-  username: Lucy_dJ_394
-  card: summary
+# twitter:
+#   username: Lucy_dJ_394
+#   card: summary
 # logo: logo.png
-social:
-  name: Lucy Picard
-  links:
-    - https://twitter.com/Lucy_dJ_394
-    - https://github.com/lucy924
-    - https://www.linkedin.com/in/lucy-de-jong-5155b41a9
-    - https://orcid.org/0000-0002-3399-8394
+# social:
+#   name: Lucy Picard
+#   links:
+#     - https://twitter.com/Lucy_dJ_394
+#     - https://github.com/lucy924
+#     - https://www.linkedin.com/in/lucy-de-jong-5155b41a9
+#     - https://orcid.org/0000-0002-3399-8394
 # google_site_verification: xxxxx
 lang: en
 
@@ -90,3 +90,6 @@ author:
   name: Lucy Picard
   url: https://github.com/lucy924
   email: lucy.picard@postgrad.otago.ac.nz
+
+timezone: TIMEZONE
+
