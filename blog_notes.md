@@ -30,7 +30,6 @@ delete Gemfile.lock
 To start testing after computer restart:
 `cd [path/to/docs/location]` 
 `chruby 3.1.2`
-`bundle update`
 `bundle exec jekyll serve`
 
 Testing help:
